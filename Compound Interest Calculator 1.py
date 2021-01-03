@@ -1,8 +1,11 @@
 # -*- coding: utf-8 -*-
 """
-Spyder Editor
+Created on Sat Jan  2 20:19:19 2021
 
-This program is used to calculate simple compound interest earned from investment
+@author: jiang
+
+This program can be used to calculate simple compound interest earned from investment
+This program uses While loop to calculate compound interest
 """
 print ("Bank Interest Calculator 1")
 
