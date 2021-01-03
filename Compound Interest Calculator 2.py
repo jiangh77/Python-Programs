@@ -4,9 +4,10 @@ Created on Sat Jan  2 20:19:19 2021
 
 @author: jiang
 
-This program is used to calculate simple compound interest earned from investment
+This program can be used to calculate simple compound interest earned from investment
 
-This program will allow user to start over after each calculation
+This program uses While loop to calculate compound interest
+Program allows user to start over after each series of calculation
 """
 print ("Bank Interest Calculator 2")
 
