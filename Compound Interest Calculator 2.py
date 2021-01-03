@@ -5,15 +5,14 @@ Created on Sat Jan  2 20:19:19 2021
 @author: jiang
 
 This program is used to calculate simple compound interest earned from investment
+
+This program will allow user to start_over after each calculation
 """
-
-# This section is not working yet
-
 print ("Bank Interest Calculator 2")
 
-start_over = 'True'
+start_over = 'true'
 
-while start_over = 'True'
+while start_over == 'true':
     principle = int(input('What is the principle amount? '))
     addition = int(input('How much will you contribute every year? '))
     rate = float(input("What is the interest rate per year? "))
@@ -33,10 +32,10 @@ while start_over = 'True'
         i = i + 1
         print ('Total after year', i, 'is', principle)
     
-    redo_program = input('To do another calcualtion type y or to quit type any key')
-    if redo_program = 'y':
-        start_again = 'True'
+    redo_program = input('To do another calcualtion type y or to quit type any key ')
+    if redo_program == 'y':
+        start_over = 'true'
     else:
-        start_again = 'null'
+        start_over = 'null'
 
 # the end
