@@ -6,7 +6,7 @@ Created on Sat Jan  2 20:19:19 2021
 
 This program is used to calculate simple compound interest earned from investment
 
-This program will allow user to start_over after each calculation
+This program will allow user to start over after each calculation
 """
 print ("Bank Interest Calculator 2")
 
